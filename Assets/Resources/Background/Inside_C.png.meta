@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 96
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,7 +121,2800 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Inside_C_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 694
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b42a4575dde1499f786ce9b071c22
+      internalID: 1144357260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 694
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf83910aa6d2047bb6564f3fb35cfb
+      internalID: 1609551304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 694
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf5f35919d2cfa498d35660bfef70dc
+      internalID: -1079745898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 698
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9468fcaea1359046b6dc849b0fbe8ec
+      internalID: 595156269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 654
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e535d5d394847054d8ce182187c530c7
+      internalID: -16307826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 674
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799ca83287ad1a44994fa7ac0feeb94
+      internalID: -311801971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 724
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68afa7160abae2349a5fe03737669d18
+      internalID: 1052418240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 724
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6403eb946aa102e43a9c3ff8ead628f5
+      internalID: 901588865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_8
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 718
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211eaf5523dabbb44a9779cf1170ebb9
+      internalID: 103934909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 689
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061db60a5275cd46aa9c063fdb2c7ab
+      internalID: -641818705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 586
+        width: 152
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad59fd429e0064fa8c81e26c2d58dd
+      internalID: -889719520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 661
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b58fa8b528a13498fcd833c1d87e3e
+      internalID: -1755128100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b65838b5859548882d84e050ba079
+      internalID: -473231440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 591
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c0df4f3351174596e3132f539721e
+      internalID: 1172893749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 595
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3a6c7ca0173d1409d19fbcafe8b024
+      internalID: 1458060742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 504
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e9784a2979b947b4268363f1bad8a
+      internalID: -1428148441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 576
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d898a8d40c97fd498bd9a5f6906830e
+      internalID: 1582682862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 576
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebcc1c5c8bf0794a88ef5d9f4f70c6b
+      internalID: 454678563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 586
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7aedefde0adfe42881e8f8c950e43b
+      internalID: -1686475774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_19
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 582
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d08a8ab0f3d3143bb81388a324d5e6
+      internalID: -610399555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 587
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7d48723402554bb5a66d5ae95fae8
+      internalID: -34821195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cec4cd4c7b5ca4c9bbccd74da04f96
+      internalID: 1739106149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 497
+        width: 111
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01326d433c6927f438aae6bf616e54da
+      internalID: 193950834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 483
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb0fdcaacbdbce45a16bb4209c2178a
+      internalID: -2104169360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 535
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b67f8b9121a7342b2f4baf5959de10
+      internalID: 668371861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 426
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57a06284091a0468ec217e55547de3
+      internalID: 827520355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 438
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741013452c0928489e12e703272f218
+      internalID: 1502623836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 454
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac745d40c9c204082ed94ddfa6ef67
+      internalID: 523256731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 461
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b2ab6e08ac944ea70ea28d27b9a82
+      internalID: -1947740320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 442
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c1da28e1d6b2f4ca7a06ba0bbfd0a3
+      internalID: 1477360719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 455
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf1cf6ef0362b14798265199ad4f3d4
+      internalID: 336156102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 455
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3a8cb3eff7694199381be8ff0a3b5
+      internalID: 1419031896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_32
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 448
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b64006dfd3d245acece365e85b9ed
+      internalID: 2133394541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_33
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 452
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c992560d2674b6a49ae61cce88e0bc6f
+      internalID: 1054416667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 426
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768d78baaca9d4447a4d923c3b27ccf0
+      internalID: -41027487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 437
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a317d26c9b35e246927186b74da6f85
+      internalID: -1196918386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_36
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 437
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725d57c9851232d4db46fe16eb861673
+      internalID: 1808943372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 442
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64a83089ccf5ae438f1b96f48732a67
+      internalID: -918484339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 433
+        width: 115
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f642494989a9494abe44bd44485fa18
+      internalID: -878436013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 445
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3b98d835d96949b0ea2767e31e3ef
+      internalID: -1798621305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 447
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72a0edbc0634d40bb4562e03045ce1
+      internalID: 74223213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_41
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 450
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf3a5ae98a6fa84895213a0a4b25ef9
+      internalID: 23743233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e07c59dbba5c45ac21123e6f6004a
+      internalID: -1844139736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 391
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a76cd207536014db1d8917405cc0e6
+      internalID: 533954328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 387
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd6a380b04f6b49867016df798037a
+      internalID: 1688755522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 391
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9aad0d3a526a540b18e2b804ce3d94
+      internalID: -33324186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 403
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741fdbd1bfdfcee4389ab6b9f2f7b647
+      internalID: -1854353624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_47
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 415
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c965ae3d7e54bd47899e64b9f2de4cd
+      internalID: -57923854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 410
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f0dae07d2ed148b5a79b244b6f75c
+      internalID: 520043359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_49
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 414
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58588551acd78644999cceb5285273e3
+      internalID: -1064415332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_50
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 384
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8181f153f53c447a82a60668e383e0
+      internalID: -876619236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_51
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 336
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4a2fa55722c60418173599d712f317
+      internalID: 1126389185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 394
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eacd288c3d7604bab2a81003f2cd3e
+      internalID: -205139267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 389
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d2973e447e704cacf50014ac07448
+      internalID: 1099555864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 393
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a798bc8be50fcfc46b745608fbd882b6
+      internalID: 1037880061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 385
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07283c19f405840b8719aeefbe9bf0
+      internalID: 1667736605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_56
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 387
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8b30047950b9a419388f2dffdda0f0
+      internalID: -1827384606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_57
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 389
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b2165aaa78bc9478a30c56af382b48
+      internalID: -1627975869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_58
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 389
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10c7ad85e298149a8971843d6fb91c
+      internalID: -1656940618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_59
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 390
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0042052b2451ec4888595ce4f6603a2
+      internalID: -1280653224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 349
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6bbfc384dcfda48b4b7c38668cf336
+      internalID: 1154440244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 355
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e917eff973f2bf14ab4303a244113d6e
+      internalID: 439291743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 355
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24aef2b0fc37fc48acb111746d68634
+      internalID: 574299754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 351
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f562fcb45c4d42abd6cb9b735b56e
+      internalID: -1613218501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 356
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4cd2c37d66fd748a748fc400c7ad97
+      internalID: 1159867391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e7217bb3ee164b83e401d8ce00798
+      internalID: -350509833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 354
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd64ebe1c22cfd47b9f5d96201db9e0
+      internalID: 535452766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 345
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595bacc3d87888c479a353d524a83d24
+      internalID: 1447718653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 301
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331139a7233a2c4e9049aa20d64eec1
+      internalID: -52569901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_69
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 356
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f7ec9f38c7da4d9299f4d2cdb495e
+      internalID: -1650038616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 349
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63af3a98fba5e7b4abb94dcf06b6a043
+      internalID: -870632661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_71
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 307
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d1f3d7e04abee43800364579b97cd4
+      internalID: -405076941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_72
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 289
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde48033dc3d38c46b4c95b3e3c7702f
+      internalID: -1637587692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 349
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d39e390a572c46badcdc4f999d22b
+      internalID: 1628339471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_74
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 338
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d49d6ad4e4ca47aae1a44bc1d28ee
+      internalID: 1442988801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_75
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 339
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c2c8ddb460784cbf2c7303c5362eb
+      internalID: -426706707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_76
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 337
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97774d5145a07e74b9b9aad5301c11b8
+      internalID: 424787437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 348
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498af6c61b61ce438f423bb0647eb23
+      internalID: 1236257454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_78
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 341
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d20718d82227043acc76115e903693
+      internalID: 1880487361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_79
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 290
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4246940afb08b34bae0ddbfe819889e
+      internalID: -1225651259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 303
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afa1848ecb31f4b8666d5c8016af3f
+      internalID: 1655666770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 305
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba95ce6033ad147b3a0dadc1199794
+      internalID: 1873863060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 294
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07731dcf76790f64986bbfcc1701df05
+      internalID: -398623733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_83
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 291
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d23a785fa6d9804b9daa49a27d4283a
+      internalID: -174750825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 286
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b5502338390b4a9d0407884e1ac11
+      internalID: 961772425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_85
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 292
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8b54c9305e3b4c87eebf19e7da476
+      internalID: -458154908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_86
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 261
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd040c94716c6f429089b9078e94717
+      internalID: 551586130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_87
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 292
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a2f8b7a45e4f47b9b9b5aa273562f
+      internalID: 482267951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_88
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870d5f2005a31f459aa3edd8f0b6fa0
+      internalID: 1886949554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1168be008c0976a44805f0313ed76aec
+      internalID: -22661134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_90
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9267658287fed8408774f8eb30b6289
+      internalID: -1984397218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 245
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c790fa2a31cf0340a52d9a507d7c011
+      internalID: -1984373769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_92
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 254
+        width: 85
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae23c38c8a6d764787f6e1f13ef6ed5
+      internalID: 296883650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 223
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7016feeec711884eb264a39c679e598
+      internalID: 605224523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_94
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 194
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258e68134f565448909c527f41dbb5c
+      internalID: -1753861617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_95
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 200
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b01698c68dd2445bc14c6f6d22d4de
+      internalID: -687494363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_96
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 195
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe7cf74d687dc7498fc40b5079cdfc1
+      internalID: -1411081393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_97
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 246
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f260d73a795543bc7cc86cb8652d0
+      internalID: 194943983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 241
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983aa27e76e2a144b8cd3452a3477a05
+      internalID: -968093097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_99
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df2ab8b0dc1f9a4383aadb9ea3048be
+      internalID: 2037384068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f985cb6ad39f2c498cfe390b32c434b
+      internalID: -1782921079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_101
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 201
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6d42d95fd7827458005386bf7a2efd
+      internalID: 1063125070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_102
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 200
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824bbe58c3810fe409e162de83a00a62
+      internalID: -2134165860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_103
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 202
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498e3c710aa6eb14eb53d419e2f9e712
+      internalID: 1158430796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 217
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b580e2a175120a84f92b21edc8070813
+      internalID: 1816466119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_105
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 170
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592cbc32ae2d66c4ab9dfbd8f663ba71
+      internalID: -669640402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 174
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd86d3ecf10204180e012565ee160e
+      internalID: 1461027156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 177
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c719c3d640727a34eb79998bf9451ec3
+      internalID: 127366273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 205
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924acbaaae3df9b48824d507bb1bb37d
+      internalID: 1053752580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_109
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 194
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0f73b2e19c66e45ae5859209dd7234
+      internalID: 2135699180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_110
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb0d726fc315e4bb703507469d5390
+      internalID: -1105816081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_111
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 162
+        width: 77
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880c19fe95b0fe4486898dd1a4b12ff
+      internalID: -82812854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_112
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 116
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a7442a6836fb4facb76796a1f3a19
+      internalID: -1368410754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 116
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac25ae5450e7041b7991d46cdbce66
+      internalID: 616919185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc31d608288bf4cb6b6169588fd2f5
+      internalID: 1460903126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_115
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 114
+        width: 227
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875db4f46bd689040996aa0b8d70c7e4
+      internalID: -1031106218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d3586766ac394ca6de774e981ec01
+      internalID: -1371266960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_117
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8d21810218e5e43b6eac71a314a517
+      internalID: -1706564703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_118
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b832d9e4b2e7be4fb548ae49cd1e202
+      internalID: -32557709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_119
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d0c7520725b3945b51f9659d4a3747
+      internalID: -1767912951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_120
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 96
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bdf45476472aa41aec7b5c52f2ce8f
+      internalID: -637518515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 60
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e05df0e5be93041bec6aefb8a061d5
+      internalID: 1755668811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_122
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 21
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f09d0515a2bc4dbb83ba79b9362eb
+      internalID: 1467994830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_123
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 21
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228f18561cb1914aa5b669876423a04
+      internalID: 1251113934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_124
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 21
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd266a266798ad94084825b9abcd8c4a
+      internalID: -1319037973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_125
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 14
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419d2c950910dd46957336c6e4e0c7e
+      internalID: 1007374285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_126
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfc62a76fe0dec4384111a1da564212
+      internalID: 48913442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_127
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 48
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec37b3beae6aae244bb65e484bac4e70
+      internalID: 1184547020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_128
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 48
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32f2ac191303994dbb2c9886028288d
+      internalID: -1373034849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_129
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 23
+        width: 288
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661740d579610d419617d28ce38c7ca
+      internalID: -981947004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_130
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081acccc7b9b524fadc469295ec6708
+      internalID: -1924272025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_131
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1916d30a46a9d7428a59ec96a64950e
+      internalID: 1755973088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_132
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b2e05c39c6c346b005eddbce38524
+      internalID: 702350845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +2925,140 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Inside_C_0: 1144357260
+      Inside_C_1: 1609551304
+      Inside_C_10: -889719520
+      Inside_C_100: -1782921079
+      Inside_C_101: 1063125070
+      Inside_C_102: -2134165860
+      Inside_C_103: 1158430796
+      Inside_C_104: 1816466119
+      Inside_C_105: -669640402
+      Inside_C_106: 1461027156
+      Inside_C_107: 127366273
+      Inside_C_108: 1053752580
+      Inside_C_109: 2135699180
+      Inside_C_11: -1755128100
+      Inside_C_110: -1105816081
+      Inside_C_111: -82812854
+      Inside_C_112: -1368410754
+      Inside_C_113: 616919185
+      Inside_C_114: 1460903126
+      Inside_C_115: -1031106218
+      Inside_C_116: -1371266960
+      Inside_C_117: -1706564703
+      Inside_C_118: -32557709
+      Inside_C_119: -1767912951
+      Inside_C_12: -473231440
+      Inside_C_120: -637518515
+      Inside_C_121: 1755668811
+      Inside_C_122: 1467994830
+      Inside_C_123: 1251113934
+      Inside_C_124: -1319037973
+      Inside_C_125: 1007374285
+      Inside_C_126: 48913442
+      Inside_C_127: 1184547020
+      Inside_C_128: -1373034849
+      Inside_C_129: -981947004
+      Inside_C_13: 1172893749
+      Inside_C_130: -1924272025
+      Inside_C_131: 1755973088
+      Inside_C_132: 702350845
+      Inside_C_14: 1458060742
+      Inside_C_15: -1428148441
+      Inside_C_16: 1582682862
+      Inside_C_17: 454678563
+      Inside_C_18: -1686475774
+      Inside_C_19: -610399555
+      Inside_C_2: -1079745898
+      Inside_C_20: -34821195
+      Inside_C_21: 1739106149
+      Inside_C_22: 193950834
+      Inside_C_23: -2104169360
+      Inside_C_24: 668371861
+      Inside_C_25: 827520355
+      Inside_C_26: 1502623836
+      Inside_C_27: 523256731
+      Inside_C_28: -1947740320
+      Inside_C_29: 1477360719
+      Inside_C_3: 595156269
+      Inside_C_30: 336156102
+      Inside_C_31: 1419031896
+      Inside_C_32: 2133394541
+      Inside_C_33: 1054416667
+      Inside_C_34: -41027487
+      Inside_C_35: -1196918386
+      Inside_C_36: 1808943372
+      Inside_C_37: -918484339
+      Inside_C_38: -878436013
+      Inside_C_39: -1798621305
+      Inside_C_4: -16307826
+      Inside_C_40: 74223213
+      Inside_C_41: 23743233
+      Inside_C_42: -1844139736
+      Inside_C_43: 533954328
+      Inside_C_44: 1688755522
+      Inside_C_45: -33324186
+      Inside_C_46: -1854353624
+      Inside_C_47: -57923854
+      Inside_C_48: 520043359
+      Inside_C_49: -1064415332
+      Inside_C_5: -311801971
+      Inside_C_50: -876619236
+      Inside_C_51: 1126389185
+      Inside_C_52: -205139267
+      Inside_C_53: 1099555864
+      Inside_C_54: 1037880061
+      Inside_C_55: 1667736605
+      Inside_C_56: -1827384606
+      Inside_C_57: -1627975869
+      Inside_C_58: -1656940618
+      Inside_C_59: -1280653224
+      Inside_C_6: 1052418240
+      Inside_C_60: 1154440244
+      Inside_C_61: 439291743
+      Inside_C_62: 574299754
+      Inside_C_63: -1613218501
+      Inside_C_64: 1159867391
+      Inside_C_65: -350509833
+      Inside_C_66: 535452766
+      Inside_C_67: 1447718653
+      Inside_C_68: -52569901
+      Inside_C_69: -1650038616
+      Inside_C_7: 901588865
+      Inside_C_70: -870632661
+      Inside_C_71: -405076941
+      Inside_C_72: -1637587692
+      Inside_C_73: 1628339471
+      Inside_C_74: 1442988801
+      Inside_C_75: -426706707
+      Inside_C_76: 424787437
+      Inside_C_77: 1236257454
+      Inside_C_78: 1880487361
+      Inside_C_79: -1225651259
+      Inside_C_8: 103934909
+      Inside_C_80: 1655666770
+      Inside_C_81: 1873863060
+      Inside_C_82: -398623733
+      Inside_C_83: -174750825
+      Inside_C_84: 961772425
+      Inside_C_85: -458154908
+      Inside_C_86: 551586130
+      Inside_C_87: 482267951
+      Inside_C_88: 1886949554
+      Inside_C_89: -22661134
+      Inside_C_9: -641818705
+      Inside_C_90: -1984397218
+      Inside_C_91: -1984373769
+      Inside_C_92: 296883650
+      Inside_C_93: 605224523
+      Inside_C_94: -1753861617
+      Inside_C_95: -687494363
+      Inside_C_96: -1411081393
+      Inside_C_97: 194943983
+      Inside_C_98: -968093097
+      Inside_C_99: 2037384068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

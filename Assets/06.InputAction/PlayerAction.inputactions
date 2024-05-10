@@ -6,7 +6,7 @@
             "id": "3c5f41c3-4130-4720-9c5b-9839f1037c5a",
             "actions": [
                 {
-                    "name": "OnMove",
+                    "name": "Move",
                     "type": "Value",
                     "id": "54c24081-0402-4995-a060-85fbf117e74f",
                     "expectedControlType": "Vector2",
@@ -15,7 +15,16 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "OnInteraction",
+                    "name": "Look",
+                    "type": "Value",
+                    "id": "c167789b-3f24-4486-b566-56ae579a0003",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Interaction",
                     "type": "Value",
                     "id": "bea3aaf3-e990-4d08-bc1c-2513dd22926b",
                     "expectedControlType": "Key",
@@ -26,24 +35,79 @@
             ],
             "bindings": [
                 {
+                    "name": "2D Vector",
+                    "id": "1d61fc28-b22a-4c19-94db-04000e3f55da",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "3cd887eb-955b-4db4-805c-f498d0fb1b56",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "e6e7ffd4-0c52-4edd-872e-cd8142e78dfb",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "eac60d3e-5a7d-406c-9532-186c5ef25d47",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "ada061aa-ac41-4ba0-950a-029a15aa7da6",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
                     "name": "",
-                    "id": "658280f0-7e8c-4d2d-8540-a42bdb5d03ca",
-                    "path": "",
+                    "id": "5b30f701-acd8-4124-90d3-56f02635a5e6",
+                    "path": "<Keyboard>/f",
                     "interactions": "",
                     "processors": "",
                     "groups": "PlayerActionController",
-                    "action": "OnMove",
+                    "action": "Interaction",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "5b30f701-acd8-4124-90d3-56f02635a5e6",
-                    "path": "",
+                    "id": "a0b0db1f-1064-49f4-9026-8bf679c2af47",
+                    "path": "<Mouse>/position",
                     "interactions": "",
                     "processors": "",
-                    "groups": "PlayerActionController",
-                    "action": "OnInteraction",
+                    "groups": "",
+                    "action": "Look",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
