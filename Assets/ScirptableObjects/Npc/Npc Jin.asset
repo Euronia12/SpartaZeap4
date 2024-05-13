@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb043981034411348a51dccbf4b5cf6e, type: 3}
+  m_Name: Npc Jin
+  m_EditorClassIdentifier: 
+  NpcNumber: 1
+  NpcName: "\uC9C4\uC720\uB85D \uB9E4\uB2C8\uC800"
+  NpcSprite: {fileID: 21300000, guid: 32b243b44076b9b4e9be95457f7ddc6c, type: 3}
+  NpcDialogues:
+  - "\uC624\uB298 \uD558\uB8E8\uB3C4 \uB9C8\uBB34\uB9AC\uAC00 \uB418\uC5B4\uAC00\uB294
+    \uC774\uC2DC\uAC04 \uC5EC\uB7EC\uBD84 \uB2E4\uB4E4 TIL \uC4F0\uACE0 \uACC4\uC2E0\uAC00\uC694~?"
+  - "\uC624\uB298 \uD558\uB8E8\uB3C4 \uACE0\uC0DD\uD558\uC168\uC2B5\uB2C8\uB2E4!!!
+    \uD1F4\uC2E4\uCCB4\uD06C\uC640 9\uC2DC \uC774\uD6C4 \uC9C8\uBB38\uC740 \uC2DC\uD2B8\uC5D0
+    \uB0A8\uACA8\uC8FC\uC154\uC57C\uD55C\uB2E4\uB294\uAC70 \uC544\uC2DC\uC8E0~?"
+  - "\uC5EC\uB7EC\uBD84 \uB2E4\uB4E4 \uC77C\uC5B4\uB098\uC11C \uC774\uBBF8 \uCC29\uC11D\uD558\uC168\uC8E0?
+    \uADF8\uB807\uB2E4\uBA74 \uC78A\uC9C0\uC54A\uACE0 \uC5B4\uC11C\uC5B4\uC11C \uC785\uC2E4\uCCB4\uD06C\uB97C
+    \uD558\uB7EC \uAC00\uBCF4\uC8E0!"
+  - "\uD3C9\uC548\uC548 \uD734\uC77C \uB418\uC168\uB098\uC694 \uC5EC\uB7EC\uBD84~
+    \uD300\uACFC\uC81C \uC81C\uCD9C\uC77C\uC774 \uB2E4\uAC00\uC654\uC2B5\uB2C8\uB2E4~!!!!"

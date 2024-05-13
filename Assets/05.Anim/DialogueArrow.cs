@@ -1,0 +1,36 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DialogueArrow : MonoBehaviour
+{
+    private float fadeTime = 1.0f;
+    // Start is called before the first frame update
+    void Start()
+    {
+        StartCoroutine(MoveArrow());
+    }
+
+    IEnumerator MoveArrow()
+    {
+        while (true)
+        {
+            yield return StartCoroutine(Fade(Vector2.down));
+            yield return StartCoroutine(Fade(Vector2.up));
+        }
+    }
+
+    private IEnumerator Fade(Vector2 direction)
+    {
+        float current = 0;
+        float percent = 0;
+        while (percent < 1)
+        {
+            current += Time.deltaTime;
+            percent = current / fadeTime;
+            transform.position = Vector2.Lerp(transform.position, direction, percent);
+            yield return null;
+        }
+    }
+}
