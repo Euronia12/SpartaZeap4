@@ -29,7 +29,6 @@ public class CharacterMovement : MonoBehaviour
     private void Move(Vector2 direction)
     {
         movementDirection = direction;
-        Debug.Log("move");
         anim.SetFloat("InputX", direction.x);
         anim.SetFloat("InputY", direction.y);
     }

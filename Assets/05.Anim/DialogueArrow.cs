@@ -16,12 +16,12 @@ public class DialogueArrow : MonoBehaviour
     {
         while (true)
         {
-            yield return StartCoroutine(Fade(Vector2.down));
-            yield return StartCoroutine(Fade(Vector2.up));
+            yield return StartCoroutine(Fade(Vector3.down));
+            yield return StartCoroutine(Fade(Vector3.up));
         }
     }
 
-    private IEnumerator Fade(Vector2 direction)
+    private IEnumerator Fade(Vector3 direction)
     {
         float current = 0;
         float percent = 0;
@@ -29,7 +29,7 @@ public class DialogueArrow : MonoBehaviour
         {
             current += Time.deltaTime;
             percent = current / fadeTime;
-            transform.position = Vector2.Lerp(transform.position, direction, percent);
+            transform.position = Vector2.Lerp(transform.position, transform.position + direction, percent);
             yield return null;
         }
     }

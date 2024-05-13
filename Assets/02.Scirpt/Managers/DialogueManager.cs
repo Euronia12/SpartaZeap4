@@ -18,6 +18,8 @@ public class DialogueManager : MonoBehaviour
     private Image arrow;
     [SerializeField]
     private GameObject interactionUI;
+
+    public bool IsTyping = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +28,7 @@ public class DialogueManager : MonoBehaviour
 
     IEnumerator StartTyping(string dialogue)
     {
+        IsTyping = true;
         dialogueCanvas.SetActive(true);
         arrow.gameObject.SetActive(false);
         int index = 0;
@@ -36,16 +39,19 @@ public class DialogueManager : MonoBehaviour
             yield return new WaitForSeconds(0.05f);
         }
         arrow.gameObject.SetActive(true);
+        IsTyping = false;
     }
 
     public void StartDialogue(NpcInfoes npc)
     {
+
         interactionUI.SetActive(true);
         speakerNameBox.text = npc.NpcName;
         speakerImg.sprite = npc.NpcSprite;
 
         int randText = Random.Range(0, npc.NpcDialogues.Count);
         StartCoroutine(StartTyping(npc.NpcDialogues[randText]));
+
     }
 
     public void EndDialogue()

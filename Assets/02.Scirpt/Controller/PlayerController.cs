@@ -10,13 +10,17 @@ public class PlayerController : CharacterController
     Animator anim;
     private Rigidbody2D rb;
     public NpcInfoes npc = null;
-    private Vector2 pos;
+    [SerializeField]
+    private DialogueManager dialogue;
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        anim = GetComponentInChildren<Animator>();
+        anim = GetComponentInChildren<Animator>();        
     }
-
+    private void Start()
+    {
+        StartCoroutine(MoveCheck());
+    }
     public void OnMove(InputValue value)
     {
         if (!GameManager.Instance.isPlaying)
@@ -29,9 +33,8 @@ public class PlayerController : CharacterController
             IsMove = true;
             anim.SetBool("IsMove", true);
         }
-        
+
         Vector2 moveInput = value.Get<Vector2>().normalized;
-        pos = moveInput;    
         CallMoveEvent(moveInput);
     }
 
@@ -51,28 +54,30 @@ public class PlayerController : CharacterController
         CallLookEvent(lookInput);
     }
 
-
+    IEnumerator MoveCheck()
+    {
+        while (true) 
+        {
+            if(!GameManager.Instance.isPlaying) 
+            {
+                yield return null;
+            }
+            if (rb.velocity == Vector2.zero)
+            {
+                IsMove = false;
+                anim.SetBool("IsMove", false);
+            }
+            else
+            {
+                anim.SetBool("IsMove", true);
+            }
+            yield return null;
+        }
+    }
     public void OnInteraction(InputValue value)
     {
-        if(value.isPressed && npc != null)
+        if(value.isPressed && npc != null && !dialogue.IsTyping)
             CallOnInterationEvent();
-    }
-
-    private void FixedUpdate()
-    {
-        if (pos == Vector2.zero)
-        {
-            Debug.Log("moveFalse");
-            IsMove= false;
-            anim.SetBool("IsMove", false);
-
-        }
-        else
-        {
-            Debug.Log("movetrue");
-            anim.SetBool("IsMove", true);
-        }
-
     }
 
     private void OnApplicationFocus(bool hasFocus)
