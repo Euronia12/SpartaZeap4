@@ -16,6 +16,7 @@ public class LookAtPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        GameManager.Instance.AddNewVisitor(npc.NpcName);
     }
 
     // Update is called once per frame
