@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
 [CreateAssetMenu(fileName = "NpcInfoes", menuName = "Npc/Infoes/Default", order = 0)]
 public class NpcInfoes : ScriptableObject
 {

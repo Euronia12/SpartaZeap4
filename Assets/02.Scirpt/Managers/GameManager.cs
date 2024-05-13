@@ -41,6 +41,7 @@ public class GameManager : MonoBehaviour
     {
         name = inputID.text;
         userName.text = name;
+        Debug.Log("before");
         isPlaying = true;
     }
 

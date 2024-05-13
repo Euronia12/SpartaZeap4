@@ -12,4 +12,9 @@ public class PlayerJobSO : ScriptableObject
     public int Speed = 5;
     public AnimatorOverrideController animator;
     public Sprite sprite;
+
+    private void Awake()
+    {
+        Debug.Log("SOAwake");
+    }
 }
