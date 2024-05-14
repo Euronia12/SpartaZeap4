@@ -11,6 +11,7 @@
 ---
 ## 주요 기능
 ---
+ ![image](https://github.com/Euronia12/SpartaZeap4/assets/150045088/a923b7d1-02a2-4ffb-a8c2-efb168b48df6)
 * 총 3 종류의 캐릭터 구현
   
 * Input System과 Action으로 wsad 키를 입력받아 캐릭터 이동 및 애니메이션 구현
@@ -20,12 +21,10 @@
 * 시네머신을 활용한 카메라 효과 구현
   
 * InputField를 활용하여 캐릭터의 이름을 받아오는 입력시스템 구현
-* ![image](https://github.com/Euronia12/SpartaZeap4/assets/150045088/1a1c45d7-5194-4d8a-898d-9a79572e5a44)
+  ![image](https://github.com/Euronia12/SpartaZeap4/assets/150045088/1a1c45d7-5194-4d8a-898d-9a79572e5a44)
 
 * 3 종류의 캐릭터를 선택 혹은 변경할 수 있는 기능 구현
-* ![image](https://github.com/Euronia12/SpartaZeap4/assets/150045088/dde1c701-bb59-400f-8838-22b21238e077)
-
-* ![image](https://github.com/Euronia12/SpartaZeap4/assets/150045088/a923b7d1-02a2-4ffb-a8c2-efb168b48df6)
+ ![image](https://github.com/Euronia12/SpartaZeap4/assets/150045088/dde1c701-bb59-400f-8838-22b21238e077)
 
 * 현재 시간을 표시하는 UI 구현
 
