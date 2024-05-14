@@ -19,7 +19,7 @@ public class PlayerController : CharacterController
     }
     private void Start()
     {
-        StartCoroutine(MoveCheck());
+        
     }
     public void OnMove(InputValue value)
     {
@@ -38,6 +38,7 @@ public class PlayerController : CharacterController
         CallMoveEvent(moveInput);
     }
 
+
     public void OnLook(InputValue value)
     {
         if (IsMove || !GameManager.Instance.isPlaying || !IsFocus)
@@ -54,24 +55,20 @@ public class PlayerController : CharacterController
         CallLookEvent(lookInput);
     }
 
-    IEnumerator MoveCheck()
+    private void Update()
     {
-        while (true) 
+        if (!GameManager.Instance.isPlaying)
         {
-            if(!GameManager.Instance.isPlaying) 
-            {
-                yield return null;
-            }
-            if (rb.velocity == Vector2.zero)
-            {
-                IsMove = false;
-                anim.SetBool("IsMove", false);
-            }
-            else
-            {
-                anim.SetBool("IsMove", true);
-            }
-            yield return null;
+            return;
+        }
+        if (rb.velocity == Vector2.zero)
+        {
+            IsMove = false;
+            anim.SetBool("IsMove", false);
+        }
+        else
+        {
+            anim.SetBool("IsMove", true);
         }
     }
     public void OnInteraction(InputValue value)
