@@ -13,16 +13,10 @@ public class LookAtPlayer : MonoBehaviour
     public CharacterController characterController;
     public PlayerController playerController;
     public DialogueManager dialogueManager;
-    // Start is called before the first frame update
+
     void Start()
     {
         GameManager.Instance.AddNewVisitor(npc.NpcName);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-       
     }
 
     private void OnDialogue()

@@ -17,10 +17,7 @@ public class PlayerController : CharacterController
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponentInChildren<Animator>();        
     }
-    private void Start()
-    {
-        
-    }
+
     public void OnMove(InputValue value)
     {
         if (!GameManager.Instance.isPlaying)

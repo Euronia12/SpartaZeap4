@@ -13,8 +13,4 @@ public class PlayerJobSO : ScriptableObject
     public AnimatorOverrideController animator;
     public Sprite sprite;
 
-    private void Awake()
-    {
-        Debug.Log("SOAwake");
-    }
 }

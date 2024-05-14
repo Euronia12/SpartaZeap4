@@ -20,11 +20,6 @@ public class DialogueManager : MonoBehaviour
     private GameObject interactionUI;
 
     public bool IsTyping = false;
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
 
     IEnumerator StartTyping(string dialogue)
     {

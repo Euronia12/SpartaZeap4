@@ -16,8 +16,8 @@ public class DialogueArrow : MonoBehaviour
     {
         while (true)
         {
-            yield return StartCoroutine(Fade(Vector3.down));
-            yield return StartCoroutine(Fade(Vector3.up));
+            yield return StartCoroutine(Fade(Vector3.down * 0.2f));
+            yield return StartCoroutine(Fade(Vector3.up * 0.2f));
         }
     }
 

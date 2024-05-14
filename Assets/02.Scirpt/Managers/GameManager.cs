@@ -11,8 +11,6 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
     public bool isPlaying = false;
-    private static UIManager uiManager = new UIManager();
-    public UIManager UI { get { return uiManager; } }
     public GameObject canvas;
     public TextMeshProUGUI timerTxt;
     public TextMeshProUGUI userName;
@@ -31,13 +29,8 @@ public class GameManager : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
+
     void Update()
     {
         GetCurrentDate();
